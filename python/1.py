@@ -1,6 +1,7 @@
 #coding:utf-8
 '''
 冒泡排序python实现
+a1, a2比较，如果a1 > a2则 a2和a1位置互换，直到下一轮再比较
 '''
 class Solution(object):
     def bubble_sort(self, L1):
